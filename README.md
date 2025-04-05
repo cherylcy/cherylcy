@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Cheryl
 
 👩🏻‍🎓 Studying Computer Science at UC Davis</br>
-👩🏻‍💻 Software Engineer with experience in fullstack, AI/ML, and data applications</br>
-🔥 Passionate about applying machine learning to real-world problems</br>
+👩🏻‍💻 Software Engineer with experience in fullstack, AI/ML, and big data</br>
+🔥 Passionate about distributed system, machine learning and data applications</br>
 🤝 Open to full-time opportunities and open source collaborations</br>
 📫 Let's connect and build cool things together!
 
